@@ -1,0 +1,13 @@
+.profile_wrap {
+  height: 15rem;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.masthead-avatar {
+}
+
+.color_subway {
+  color: #f0602f;
+}
